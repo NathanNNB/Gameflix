@@ -1,0 +1,123 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Destaques",
+      "cor": "#673bb7"
+    },
+    {
+      "id": 2,
+      "titulo": "Suspense e Terror",
+      "cor": "#673bb7"
+    },
+    {
+      "id": 3,
+      "titulo": "Ação e Aventura",
+      "cor": "#673bb7"
+    }
+  ],
+  "videos": [
+    {
+      "id": 11,
+      "categoriaId": 1,
+      "titulo": "Spongebob Squarepants Battle for Bikini Bottom",
+      "url": "https://www.youtube.com/watch?v=DWcrY_6u3D4"
+    },
+    {
+      "id": 12,
+      "categoriaId": 1,
+      "titulo": "Cyberpunk 2077",
+      "url": "www.youtube.com/watch?v=qIcTM8WXFjk&list=PLGP2J9nyCP4W_cxK-T3hurLR0RhMcQGQ2&index=3"
+    },
+    {
+      "id": 13,
+      "categoriaId": 1,
+      "titulo": "Fall Guys ",
+      "url": "https://www.youtube.com/watch?v=Wj3dUvGLjNQ&list=PLGP2J9nyCP4W_cxK-T3hurLR0RhMcQGQ2&index=2"
+    },
+    {
+      "id": 14,
+      "categoriaId": 1,
+      "titulo": "Minecraft",
+      "url": "https://www.youtube.com/watch?v=MmB9b5njVbA&list=PLGP2J9nyCP4W_cxK-T3hurLR0RhMcQGQ2&index=4"
+    },
+    {
+      "id": 15,
+      "categoriaId": 1,
+      "titulo": "Horizon Zero Dawn",
+      "url": "https://www.youtube.com/watch?v=VNd7tpPzmzE&list=PLGP2J9nyCP4W_cxK-T3hurLR0RhMcQGQ2&index=5"
+    },
+    {
+      "id": 16,
+      "categoriaId": 1,
+      "titulo": "Valorant",
+      "url": "https://www.youtube.com/watch?v=e_E9W2vsRbQ"
+    },
+    {
+      "id": 21,
+      "categoriaId": 2,
+      "titulo": "Resident Evil 3",
+      "url": "https://www.youtube.com/watch?v=9LrLM4Hvr9U&list=PLGP2J9nyCP4W_cxK-T3hurLR0RhMcQGQ2&index=7&ab_channel=GameSpot"
+    },
+    {
+      "id": 22,
+      "categoriaId": 2,
+      "titulo": "The Last of us - Part II",
+      "url": "https://www.youtube.com/watch?v=UqCD5AX-hC4&ab_channel=GameSpotTrailers"
+    },
+    {
+      "id": 23,
+      "categoriaId": 2,
+      "titulo": "Dead by Deylight",
+      "url": "https://www.youtube.com/embed/JGhIXLO3ul8?list=PLGP2J9nyCP4W_cxK-T3hurLR0RhMcQGQ2"
+    },
+    {
+      "id": 24,
+      "categoriaId": 2,
+      "titulo": "until Dawn ",
+      "url": "https://www.youtube.com/watch?v=-9vA1rIoee8&ab_channel=BRKsEDU"
+    },
+    {
+      "id": 25,
+      "categoriaId": 2,
+      "titulo": "outlast 2",
+      "url": "https://www.youtube.com/watch?v=MKrUZ36IVAY&list=PLGP2J9nyCP4W_cxK-T3hurLR0RhMcQGQ2&index=11"
+    },
+    {
+      "id": 31,
+      "categoriaId": 3,
+      "titulo": "Hades ",
+      "url": "https://www.youtube.com/embed/91t0ha9x0AE?list=PLGP2J9nyCP4W_cxK-T3hurLR0RhMcQGQ2"
+    },
+    {
+      "id": 32,
+      "categoriaId": 3,
+      "titulo": "Far Cry 3",
+      "url": "https://www.youtube.com/watch?v=fpfD9yPw8Fs&ab_channel=FunkyBlackCat"
+    },
+    {
+      "id": 33,
+      "categoriaId": 3,
+      "titulo": "GTA V",
+      "url": "https://www.youtube.com/watch?v=QkkoHAzjnUs&ab_channel=RockstarGames"
+    },
+    {
+      "id": 34,
+      "categoriaId": 3,
+      "titulo": "Shadow of The Tomb Raider",
+      "url": "https://www.youtube.com/embed/XYtyeqVQnRI?list=PLGP2J9nyCP4W_cxK-T3hurLR0RhMcQGQ2"
+    },
+    {
+      "titulo": "blair witch",
+      "url": "https://www.youtube.com/watch?v=m50j3t52TtY",
+      "categoriaId": 2,
+      "id": 70
+    },
+    {
+      "titulo": "Fortnite",
+      "url": "https://www.youtube.com/watch?v=qmQs5nlRmL0&list=PLGP2J9nyCP4W_cxK-T3hurLR0RhMcQGQ2&index=2",
+      "categoriaId": 1,
+      "id": 71
+    }
+  ]
+}
