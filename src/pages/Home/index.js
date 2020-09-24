@@ -3,6 +3,8 @@ import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
 import categoriasRepository from '../../repositories/categorias';
 import PageDefault from '../../components/PageDefault';
+import Loading from '../../components/Loading';
+
 
 function Home() {
   const [dadosIniciais, setDadosIniciais] = useState([]);
@@ -21,7 +23,7 @@ function Home() {
   return (
     <PageDefault paddingAll={0}>
       {dadosIniciais.length === 0 && (
-      <div>Loading...</div>
+      <Loading/>
       )}
 
       {dadosIniciais.map((categoria, indice) => {
